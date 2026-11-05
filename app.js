@@ -8,3 +8,5 @@ console.log("adding a new file on feature/cart");
 console.log("Main branch: wishlist preparation");
 
 console.log("Wishlist feature started");
+
+console.log("Wishlist items functionality");
