@@ -6,3 +6,5 @@ console.log("adding new line");
 console.log("Cart feature");
 console.log("adding a new file on feature/cart");
 console.log("Main branch: wishlist preparation");
+
+console.log("Wishlist feature started");
